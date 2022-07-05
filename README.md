@@ -1,0 +1,2 @@
+# BTC_Prediction
+This work uses two regression models in R and Python to predict Bitcoin-USD values on a normalized scale. This serves to demonstrate a few capabilities in data wrangling, visualization, and multi-language proficiency.  The goal of this work was to show that BTC functions as a store of value rather than independent currency, meaning it is highly subject to market conditions and the Federal Funds Rate. The results are not strong and tedious to interpret as Z-score MAE is the performance metric. However, this does show promise in supporting the hypothesis. 
